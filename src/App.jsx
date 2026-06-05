@@ -1,8 +1,8 @@
 import { HomePage } from './pages/HomePage'
 import './App.css'
 import { Route, Routes } from 'react-router'
-import { CheckoutPage } from './pages/CheckoutPage'
 import { OrdersPage } from './pages/OrdersPage'
+import { CheckoutPage } from './pages/checkout/CheckoutPage'
 function App() {
 
   return (
